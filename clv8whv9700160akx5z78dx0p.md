@@ -1,0 +1,17 @@
+---
+title: "Systems fail all the time"
+datePublished: Wed Jan 03 2024 19:21:14 GMT+0000 (Coordinated Universal Time)
+cuid: clv8whv9700160akx5z78dx0p
+slug: systems-fail-all-the-time
+canonical: https://quni.io/2024/01/03/systems-fail-all-the-time/
+tags: uncategorized
+
+---
+
+We may assert that a catastrophic failure may be our own demise, either individually or as a civilization or species. But this view also presupposes an importance within the broader context of the universe that simply isn’t true. It’s illogical to think that something as small and insignificant as humanity in the grand scheme of things should trump the universe.
+
+The concept of anthropocentrism, which places humanity at the center of importance in the universe, has been a subject of debate and critique. Critics argue that the idea of anthropocentrism has been challenged since the time of Charles Darwin, who, through his work “On the Origin of Species,” is said to have sealed the fate of anthropocentrism (Cranier, 2022). This criticism is rooted in the understanding that humanity, while being an extremely social species, is not necessarily the focal point of the universe (Laughlin, 2022). Philosophers have also highlighted the ethical significance of other human beings and their vulnerable, embodied singularity, suggesting that the importance of humanity within the broader context of the universe may not be as significant as traditionally perceived (Plant, 2011). The discussion on the significance of humanity in the grand scheme of things also extends to the field of psychology. Human capital management practices in higher education systems have been studied, indicating the importance of understanding the mindset and psychology of individuals within the context of the broader system (Zaman et al., 2020). Furthermore, the implications of human value and motivational systems have been analyzed, shedding light on the complexity of human nature and the impossibility of simplifying the value of humanity within the universe (Combs, 2006).
+
+In conclusion, the concept of anthropocentrism and the significance of humanity within the broader context of the universe have been subjects of critique and analysis across various disciplines. From philosophy to psychology, the understanding of humanity’s place in the universe is being reevaluated, challenging traditional notions of anthropocentrism.
+
+**References**: Combs, A. (2006). Daddy, why are people so complex?. World Futures, 62(6), 464-472. [https://doi.org/10.1080/02604020600826071](https://doi.org/10.1080/02604020600826071) Cranier, L. (2022). Anthropocentrism.. [https://doi.org/10.31219/osf.io/a2whu](https://doi.org/10.31219/osf.io/a2whu) Laughlin, C. (2022). Intersubjectivity, empathy, life‐world, and the social brain: the relevance of husserlian neurophenomenology for the anthropology of consciousness. Anthropology of Consciousness, 34(1), 229-260. [https://doi.org/10.1111/anoc.12171](https://doi.org/10.1111/anoc.12171) Plant, B. (2011). Welcoming dogs: levinas and ‘the animal’ question. Philosophy & Social Criticism, 37(1), 49-71. [https://doi.org/10.1177/0191453710384361](https://doi.org/10.1177/0191453710384361) Zaman, N., Mohammad, J., Naeem, A., Malik, B., & Arshad, T. (2020). The structure of human capital management practices in the higher education system of pakistan. Jinnah Business Review, 8(1), 84-94. [https://doi.org/10.53369/mpsr6523](https://doi.org/10.53369/mpsr6523)
