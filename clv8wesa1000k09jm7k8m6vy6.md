@@ -1,0 +1,17 @@
+---
+title: "The Pursuit of Universal Truths"
+datePublished: Fri Feb 23 2024 07:03:36 GMT+0000 (Coordinated Universal Time)
+cuid: clv8wesa1000k09jm7k8m6vy6
+slug: the-pursuit-of-universal-truths
+canonical: https://quni.io/2024/02/22/the-pursuit-of-universal-truths/
+tags: uncategorized
+
+---
+
+The question of whether there are universal, objective truths that humans can progressively understand through intersubjective corroboration has been debated by philosophers for millennia. Those who believe in discoverable universal truths often argue that through reason, logic, scientific inquiry, and consensus across cultures, we can peel back subjective limitations and biases to reveal reality as it truly is. However, critics argue truth is dependent on conceptual schemes or cultural paradigms, and that the notion of a “God’s eye view” of objectively true knowledge is an illusion. Understanding the strengths and limitations of both perspectives requires diving deeper into epistemology and theories of truth and knowledge.
+
+Those who argue for universal truths point to the success of science, logic, and mathematics at producing reliable and verifiable knowledge. The laws of physics and chemistry do not seem to depend on the beliefs of any one culture or individual. Scientists around the world using the scientific method can converge on shared understandings of the world, suggesting an objective reality we are progressively understanding. Mathematics and logic also provide demonstrable proofs and fundamental reasoning frameworks that cross cultural boundaries. The success and intersubjective consensus around scientific, logical, and mathematical knowledge provides evidence for the idea that there are objective truths we can collectively discover. Furthermore, the refining process of these disciplines, with hypotheses tested against evidence and false beliefs discarded over time, demonstrates how we can asymptotically get closer to universal truths.
+
+However, critics of universal truth argue that even scientific “facts” are subject to re-interpretation with new evidence and paradigm shifts. Many matters of metaphysics, morality, and meaning go beyond what science and reason can objectively determine. Truth may depend on the cultural “conceptual schemes” we use to interpret experience, and language itself may shape and limit our understanding. While science demonstrates descriptive truths about the physical world, subjective factors influence what we consider to be ethical truths. Our knowledge is also limited by our biased perspectives as biological organisms adapted for survival rather than pure objectivity. Developing a universally “neutral” viewpoint may be impossible given these constraints.
+
+The debate around universal truth versus contextual truth demonstrates some of the deepest complexities of epistemology and the theory of knowledge. There are strong arguments on both sides stemming from our experience ofobjective knowledge through science alongside the clear influence of cultural paradigms on knowledge. Bridging these perspectives may require recognizing both the contextuality and intersubjectivity of truth – that is, knowledge is produced by communities in context, but communities from diverse backgrounds can arrive at shared truths through communication and consensus. Though universal truth may be an aspirational ideal, it is likely an asymptotic journey without end.
