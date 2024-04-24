@@ -1,5 +1,7 @@
 ---
 title: "What’s an infoton?"
+seoTitle: "Understanding the Concept of an Infoton"
+seoDescription: "Infoton: interconnected information across dimensions, enabling limitless understanding of existence"
 datePublished: Tue Apr 23 2024 05:28:49 GMT+0000 (Coordinated Universal Time)
 cuid: clvby47rj000009jr6f86c2af
 slug: infoton
