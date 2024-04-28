@@ -5,6 +5,7 @@ seoDescription: "Explore the idea that the universe is an intricate tapestry of 
 datePublished: Mon Apr 22 2024 19:46:00 GMT+0000 (Coordinated Universal Time)
 cuid: clvbdapgr000c0ala7kw31qc0
 slug: info
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714340876804/80651852-214e-4a39-9be9-6fdaa1cc7361.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1713935723734/01ca2d5d-0e60-46ca-aba5-d1c99777df51.webp
 tags: information, quantum-mechanics, consciousness, holographic-theory, information-theoretic
 
