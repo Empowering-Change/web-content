@@ -10,7 +10,7 @@ slug: social-good
 
 **We support great ideas that make a difference.** We're looking for solutions to social problems big and small, focusing on equity, open access to information, and social justice.
 
-**Anyone can apply.** Individuals, groups, small organizations, or big ones – it doesn't matter. We care about your idea, not your fancy paperwork.
+**Anyone can apply.** Individuals, groups, small organizations, or big ones – it doesn't matter. We care about real outcomes that improve human lives, not paperwork and administrivia.
 
 **Tell us:**
 
@@ -18,7 +18,7 @@ slug: social-good
     
 * How will your idea fix it?
     
-* How will we know if it works
+* How will we know if it works?
     
 * How much will it cost?
     
