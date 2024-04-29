@@ -29,4 +29,4 @@ slug: social-good
 
 **How to Apply**
 
-Visit our website \[link\] for the application form and more information.
+Join the Matrix community and pitch your idea: [https://matrix.to/#/#empowering-change:matrix.org](https://matrix.to/#/#empowering-change:matrix.org)
