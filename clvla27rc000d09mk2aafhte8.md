@@ -4,7 +4,8 @@ seoTitle: "Empowering Social Good for a Better Future"
 seoDescription: "Discover how to empower social change with our grants for ideas focused on equity, justice, and open access. Apply now—everyone is welcome!"
 datePublished: Mon Apr 29 2024 18:13:07 GMT+0000 (Coordinated Universal Time)
 cuid: clvla27rc000d09mk2aafhte8
-slug: social-good
+slug: empowering-change
+tags: empowering-change
 
 ---
 
