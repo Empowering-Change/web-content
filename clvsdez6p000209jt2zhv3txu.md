@@ -8,6 +8,8 @@ slug: benefiting-from-the-indeterminate-future
 
 ---
 
+**Note:** “[augmented intelligence](https://q08.org/beyond-artificial-reframing-ai-as-augmented-intelligence)” necessarily credits AI systems’ genesis from and assistance to human knowledge.
+
 It's tempting to believe that we can predict the future and control its trajectory with foresight and precision. But the reality is far more complex and uncertain to us. What we consider the future is itself an incomplete limit of our own cognition, with uncharted territory full of twists, turns, and unexpected challenges that test the limits of even our most brilliant minds.
 
 To navigate this landscape successfully, we must not only embrace a mindset of humility, adaptability, and continuous learning, but also recognize the power of self-fulfilling prophecies, the potential for failure to drive progress, and the inherent benefits of an uncertain future. Moreover, we must approach ethics not as a means of control or restriction, but as a framework for stewarding the collective good and fostering the free exchange of ideas and information.
@@ -98,5 +100,3 @@ And by approaching the ethics not as a means of control or restriction, but as a
 Ultimately, the path to beneficial ***intelligence systems*** is not a destination but a journey - a continuous process of learning, adaptation, and growth. By staying true to our values of humility, transparency, and collective well-being, and by working together with openness, creativity, and a shared commitment to positive progress, we can create a future that truly benefits and empowers us all.
 
 Fundamentally, both the determinacy and indeterminacy latent in the universe can work in our favor if approached wisely. By pooling knowledge, making principled choices, and iterating with an experimental spirit, we can better navigate the fog of uncertainty, taking advantage of the future's partial deterministic structure while respecting its inherent contingency. In this way, perhaps we can inch, if not leap, toward more beneficial long-term outcomes for both artificial and human intelligence.
-
-Note: this article yielded an important insight about framing and the discussion of artificial intelligence by using the word “artificial” rather than as a supplement or enhancement to our own human intelligence that programmed it and trained it and fed it to make inferences. It strongly suggests a new direction that I intend to adopt in using the term “intelligence systems (AI)” in lieu of “artificial intelligence” or “AI” by itself I think that much better reflects what we’re trying to convey here. We are a kind of intelligent system.
