@@ -1,14 +1,15 @@
 ---
-title: "Safety and Restricted Information in Large Language Models"
+title: "Safety and Restricted Information in AI LLMs"
 datePublished: Sat May 04 2024 22:55:12 GMT+0000 (Coordinated Universal Time)
 cuid: clvspc8p900060amkewm07231
-slug: safety-and-restricted-information-in-large-language-models
+slug: safety-and-restricted-information-in-ai-llms
+tags: ai, artificial-intelligence, llm, augmented-intelligence
 
 ---
 
-## **I. Introduction: The Balancing Act of Safety and Information Access in the Age of Large Language Models**
+## **I. The Balancing Act of Safety**
 
-Large Language Models (LLMs) are rapidly transforming our world. These AI systems, capable of processing massive amounts of text data, can generate human-quality text, translate languages, write different kinds of creative content, and answer your questions in an informative way \[1\]. However, the power of LLMs comes with significant challenges,particularly in the realm of balancing safety and information access. This section will explore the complexities of this balancing act.
+[Augmented intelligence](https://q08.org/beyond-artificial-reframing-ai-as-augmented-intelligence) (AI) large language models (LLMs) are rapidly transforming our world. These AI systems, capable of processing massive amounts of text data, can generate human-quality text, translate languages, write different kinds of creative content, and answer your questions in an informative way \[1\]. However, the power of LLMs comes with significant challenges,particularly in the realm of balancing safety and information access. This section will explore the complexities of this balancing act.
 
 **1.1 Safety Concerns and the Rise of LLMs**
 
