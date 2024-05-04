@@ -10,8 +10,6 @@ tags: ai, artificial-intelligence, language
 
 ---
 
-Why a simple shift in language unlocks the true power of AI
-
 Imagine yourself in the heart-pounding urgency of an emergency room. A critical patient arrives, and Dr. Williams, a seasoned physician, is at the helm. But Dr. Williams isn't alone. A vital partner stands beside her – a computer monitor displaying real-time vitals, past medical history, and complex algorithms analyzing the situation. Suddenly, the intelligent system flashes a red alert – a potential drug interaction the doctor might have missed in the heat of the moment. With a grateful nod, Dr. Williams adjusts the treatment plan.
 
 This scene isn't about a machine replacing Dr. Williams. It's about a powerful tool **augmenting** her expertise, experience, and judgment. This is the true essence of what we should be calling "Artificial Intelligence" –  **Augmented Intelligence (AI)**.
