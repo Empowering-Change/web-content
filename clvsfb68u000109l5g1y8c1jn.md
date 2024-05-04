@@ -6,7 +6,7 @@ datePublished: Sat May 04 2024 18:14:26 GMT+0000 (Coordinated Universal Time)
 cuid: clvsfb68u000109l5g1y8c1jn
 slug: beyond-artificial-reframing-ai-as-augmented-intelligence
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714846407494/312cbf31-2c96-4f47-bf62-a7c69ec69a1a.png
-tags: ai, artificial-intelligence, language
+tags: ai, artificial-intelligence, language, augmented-intelligence
 
 ---
 
