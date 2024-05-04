@@ -1,5 +1,7 @@
 ---
 title: "Whitepaper: Project Pebble"
+seoTitle: "Project Pebble Whitepaper Overview"
+seoDescription: "Discover Project Pebble: an AI companion that revolutionizes personal knowledge capture and enhances decision-making through intuitive interaction"
 datePublished: Sat May 04 2024 07:30:33 GMT+0000 (Coordinated Universal Time)
 cuid: clvrsb4vx00000ajhfc0f9gtr
 slug: pebble
