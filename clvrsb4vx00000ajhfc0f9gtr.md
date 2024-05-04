@@ -5,6 +5,7 @@ seoDescription: "Discover Project Pebble: an AI companion that revolutionizes pe
 datePublished: Sat May 04 2024 07:30:33 GMT+0000 (Coordinated Universal Time)
 cuid: clvrsb4vx00000ajhfc0f9gtr
 slug: pebble
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1714814543304/996b8ca5-b7e1-4be5-b570-972c605db31a.png
 tags: ai, hardware
 
 ---
