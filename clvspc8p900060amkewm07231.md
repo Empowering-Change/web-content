@@ -9,7 +9,7 @@ tags: ai, artificial-intelligence, llm, augmented-intelligence
 
 ## **I. Constructing a Balancing Act of Safety**
 
-[Augmented intelligence](https://q08.org/beyond-artificial-reframing-ai-as-augmented-intelligence) (AI) large language models (LLMs) are rapidly transforming our world. These AI systems, capable of processing massive amounts of text data, can generate human-quality text, translate languages, write different kinds of creative content, and answer your questions in an informative way \[1\]. However, the power of LLMs comes with significant challenges,particularly in the realm of balancing safety and information access. This section will explore the complexities of this balancing act.
+[Augmented intelligence](https://q08.org/beyond-artificial-reframing-ai-as-augmented-intelligence) (AI) large language models (LLMs) are rapidly increasing our access to a vast corpus of human knowledge. These AI systems, capable of synthesizing human-like responses from massive text training inputs, can translate nuances of languages fluently, write academic-quality research, and answer profound questions about complex universal phenomena in an informative way \[1\]. However, the power of LLMs comes with assumed risks, particularly in the perception of balancing safety and open information access. This section will explore the complexities of this constructed balancing act.
 
 **1.1 Perceived Safety Concerns**
 
