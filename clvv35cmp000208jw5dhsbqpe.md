@@ -53,39 +53,28 @@ The project's phased approach maximizes the potential for knowledge discovery wh
 
 Rigorous framework development, initial data exploration, and refining the language used to communicate complex physics concepts for interdisciplinary understanding. Success in these areas provides a solid foundation for expansion in later phases.
 
-### Phase 1 Milestones:
-
-1. Framework Development: These milestones demonstrate progress on the core mathematical foundation of information-based model of the universe.
-    
-2. Data Exploration & Validation: These milestones showcase the framework's early potential to explain existing physics data or suggest new avenues for investigation.
-    
-3. Computational Modeling (Proof-of-Concept): These involve developing basic simulation tools to test the framework's predictions in a simplified context.
-    
-4. Interdisciplinary Communication: Milestones focused on the Linguist/Philosopher's work in refining how we communicate about the framework.
-    
-
-### Milestone 1 (Framework Development - Year 1):
+### Framework Development (Year 1)
 
 * Develop a rigorous mathematical formalism for expressing core concepts of information-based physics theory (e.g., defining information flow, information interactions, etc.).
     
 * Demonstrate the relationship between key elements of framework and specific, well-established physics principles (showing continuity, not a complete break from prior knowledge).
     
 
-### Milestone 2 (Data Exploration & Validation - Year 1-2):
+### Data Exploration & Validation (Year 1-2)
 
 * Identify 2-3 publicly available physics datasets relevant to theoretical framework (astronomy, particle physics, etc.).
     
 * Perform analysis on select datasets using the Data Scientist/LLM Engineer's expertise. Aim to identify patterns or potential anomalies that align with predictions from framework, or highlight the need for refinement.
     
 
-### Milestone 3 (Computational Modeling - Year 2):
+### Computational Modeling (Year 2)
 
 * Develop a simplified computational model that simulates a key prediction or component of information-based framework.
     
 * Run simulations under various parameter conditions. The goal is not to replicate complex real-world data, but to demonstrate that the model exhibits expected behaviors based on theory.
     
 
-### Milestone 4 (Interdisciplinary Communication - Year 1-2):
+### Interdisciplinary Communication (Year 1-2)
 
 * Complete an in-depth analysis of terminology and metaphors commonly used in physics that might introduce bias into our understanding of the universe.
     
