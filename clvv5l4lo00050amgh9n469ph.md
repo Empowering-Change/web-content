@@ -7,7 +7,7 @@ cuid: clvv5l4lo00050amgh9n469ph
 slug: the-mathematics-of-language
 canonical: https://quni.io/2024/03/19/the-mathematics-of-language-how-ai-language-models-generate-responses/
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715011470654/9f5e4a03-d595-4657-8027-b43a8a75dcc3.png
-tags: ai, languages, mathematics, intelligence, augmented-intelligence
+tags: ai, artificial-intelligence, languages, mathematics, intelligence, augmented-intelligence
 
 ---
 
