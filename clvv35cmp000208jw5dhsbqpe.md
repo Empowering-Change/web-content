@@ -134,7 +134,7 @@ To maximize the potential of the information-based framework, future phases may 
     
 * Knowledge of Quantum Mechanics and Quantum Information Science
     
-* Artificial Intelligence and Machine Learning (including specific areas you deem relevant)
+* Artificial Intelligence and Machine Learning
     
 * Familiarity with Digital Technologies and Communication Systems
     
@@ -220,7 +220,7 @@ To maximize the potential of the information-based framework, future phases may 
     
 * Computational Resources: $35,000 annually (a combination of university-based computational resources and moderate cloud-based resources).
     
-* Data Acquisition: $5,000 annually (placeholder, costs may increase based on specific datasets required).
+* Data Acquisition: $5,000 annually (may increase based on specific datasets required).
     
 * Contingency: $30,000 annually
     
@@ -231,7 +231,7 @@ To maximize the potential of the information-based framework, future phases may 
 
 * Personnel:
     
-    * \[Similar to Phase 1, with the potential addition of a Computational Physicist Postdoc: $75,000 annually\].
+    * Similar to Phase 1, with the potential addition of a Computational Physicist Postdoc: $75,000 annually.
         
 * Benefits: $80,000 annually (adjusted for potential additional team member).
     
