@@ -29,7 +29,7 @@ The deep duality between language and math becomes evident when we consider how 
 
 ### 1.2.2. Statistical language models (e.g. GPT) highlight math-language link
 
-Recent advancements in artificial intelligence and natural language processing have further highlighted the connection between language and math. Statistical language models, such as GPT (Generative Pre-trained Transformer), have demonstrated remarkable abilities in generating coherent and contextually relevant text by learning from vast amounts of data. These models rely on complex mathematical algorithms and statistical techniques to capture the patterns and structures inherent in human language, suggesting that there is a deep mathematical foundation underlying the structure and meaning of language.
+Recent advancements in augmented intelligence (AI) and natural language processing have further highlighted the connection between language and math. Statistical language models, such as GPT (Generative Pre-trained Transformer), have demonstrated remarkable abilities in generating coherent and contextually relevant text by learning from vast amounts of data. These models rely on complex mathematical algorithms and statistical techniques to capture the patterns and structures inherent in human language, suggesting that there is a deep mathematical foundation underlying the structure and meaning of language.
 
 ## 1.3. Precision in language and math
 
