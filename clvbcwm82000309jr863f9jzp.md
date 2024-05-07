@@ -6,6 +6,7 @@ datePublished: Mon Apr 22 2024 19:35:03 GMT+0000 (Coordinated Universal Time)
 cuid: clvbcwm82000309jr863f9jzp
 slug: fucked-up-rules
 canonical: https://quni.io/fucked-up-rules/
+tags: power, justice, inequality
 
 ---
 
