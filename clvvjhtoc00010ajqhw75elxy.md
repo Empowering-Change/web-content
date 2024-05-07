@@ -1,10 +1,12 @@
 ---
 title: "Open Request for Proposals: FOSS Blockchain for Content Publishing"
+seoTitle: "FOSS Blockchain RFP for Content Publishing"
+seoDescription: "Explore Q8 Research's call for proposals to develop a FOSS blockchain protocol enhancing content publishing and verifiability"
 datePublished: Mon May 06 2024 22:34:54 GMT+0000 (Coordinated Universal Time)
 cuid: clvvjhtoc00010ajqhw75elxy
 slug: open-request-for-proposals-foss-blockchain-for-content-publishing-1
 canonical: https://quni.io/2024/04/17/open-request-for-proposals-foss-blockchain-for-content-publishing/
-tags: uncategorized
+tags: opensource, uncategorized, social-good
 
 ---
 
