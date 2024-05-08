@@ -5,6 +5,7 @@ seoDescription: "Organizations can boost societal well-being by prioritizing soc
 datePublished: Wed May 08 2024 06:22:45 GMT+0000 (Coordinated Universal Time)
 cuid: clvxfnckp00030amcc85af34h
 slug: dollars-per-unit-of-better-life
+tags: performance, metrics
 
 ---
 
@@ -100,6 +101,6 @@ Organizations may need to invest in new measurement frameworks and tools, and th
 
 Organizations should prioritize social responsibility in their decision-making processes, invest in robust measurement frameworks and tools, and collaborate with other stakeholders to address complex social issues.
 
-### 6.5. Write in a Clear, Persuasive, and Engaging Style
+### 6.5. A compelling vision
 
 The "dollars per unit of better life" metric offers a compelling vision for a more sustainable and equitable future, where businesses prioritize social responsibility and contribute to the well-being of individuals and communities. By embracing this approach, organizations can create lasting value for themselves and society as a whole.
