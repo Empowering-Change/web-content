@@ -5,6 +5,7 @@ seoDescription: "Organizations can boost societal well-being by prioritizing soc
 datePublished: Wed May 08 2024 06:22:45 GMT+0000 (Coordinated Universal Time)
 cuid: clvxfnckp00030amcc85af34h
 slug: dollars-per-unit-of-better-life
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715179469301/e54eef81-bb4c-4b73-b4af-df83131e137d.png
 tags: performance, metrics
 
 ---
