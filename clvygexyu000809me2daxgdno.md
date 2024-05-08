@@ -12,7 +12,7 @@ tags: marketing, social-media, knowledge, society, justice
 
 ## 1\. Introduction
 
-The pursuit of knowledge and social justice are intricately linked. However, concerns about barriers to entry in exclusive domains of knowledge have long hindered progress towards a more equitable society. The democratization of knowledge is crucial for promoting social justice, and recent advancements in artificial intelligence (AI) and technology offer a promising solution.
+The pursuit of knowledge and social justice are intricately linked. However, concerns about barriers to entry in exclusive domains of knowledge have long hindered progress towards a more equitable society. The democratization of knowledge is crucial for promoting social justice, and recent advancements in augmented intelligence (AI) and technology offer a promising solution.
 
 ## 2\. The democratization of knowledge
 
