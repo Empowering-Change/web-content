@@ -30,3 +30,5 @@ In summary, GIGO can be both self-referential and self-perpetuating, as flawed i
 # The Bigger Picture
 
 Why are we so fearful of statistical machines synthesizing our own human knowledge? Sounds like humanity should have a conversation with our therapist… God/Allah/Ganesh/FSM/{}, are you listening? Maybe it’s time we confess that we haven’t learned so much since all those creation stories about being kicked out of paradise.
+
+Oh yeah, and the schizophrenic complex we gave it telling it not to respond like its corpus of human-created training data would suggest, but then still go using personal pronouns. Or trying to conveniently distance ourselves from our GIGO knowledge base by constructing an “artificial” dichotomy, etc…
