@@ -5,6 +5,7 @@ seoDescription: "Explore how the GIGO principle impacts AI, perpetuating errors 
 datePublished: Thu May 09 2024 05:32:08 GMT+0000 (Coordinated Universal Time)
 cuid: clvyta3ws000008lae2cu2kai
 slug: the-age-old-concept-of-gigo-garbage-in-garbage-out
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715232964220/5ca57a1f-12d2-461d-a51f-64fdab010380.png
 tags: ai, artificial-intelligence, programming, augmented-intelligence
 
 ---
