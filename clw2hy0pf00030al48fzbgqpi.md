@@ -41,17 +41,6 @@ Decentralization is a key way to mitigate the risks of relying on a single provi
 
 There are a number of alternative services to Google's services that offer similar functionality without the same risks. For example, ProtonMail is a decentralized email service that is more secure and privacy-focused than Gmail. Mastodon is a decentralized social media platform that is not owned or controlled by a single company.
 
-**Mitigating Risks and Maintaining Control**
-
-There are a number of steps that users can take to mitigate the risks of relying on Google's services and maintain control over their data and privacy. These steps include:
-
-* Exploring decentralized and alternative services
-    
-* Prioritizing user privacy and control
-    
-* Considering alternative approaches to authentication and authorization
-    
-
 **Blockchain Wallets as a Decentralized Alternative to Centralized IDPs**
 
 Blockchain wallets are a decentralized alternative to centralized identity providers (IdPs) that can be used for federated logins. Blockchain wallets store users' private keys and allow them to sign in to websites and apps using their blockchain address. This eliminates the need for users to create and remember multiple passwords, and it also reduces the risk of identity theft and fraud.
