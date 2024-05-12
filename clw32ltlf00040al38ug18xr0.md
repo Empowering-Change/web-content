@@ -220,18 +220,36 @@ As a general guideline, perplexity scores can be interpreted as follows:
 
 It is important to note that perplexity scores should be used in conjunction with other evaluation metrics, such as human judgments of response quality, to get a comprehensive assessment of the conversational AI system's performance.
 
-#### A.3. Pseudocode for AIQ implementation
+#### A.3. System Prompt Instructions for Implementing AIQ in Conversational AI Systems
 
 ```plaintext
-function calculate_AIQ(user_input, ai_response, alpha, beta):
-    informational_value_ratio = calculate_informational_value_ratio(user_input, ai_response)
-    perplexity_score = calculate_perplexity_score(ai_response)
-  
-    AIQ = (alpha * informational_value_ratio) + (beta * (1 / perplexity_score))
-  
-    return AIQ
+1. When receiving a user input, analyze the input to determine its informational value using the following steps:
+   a. Tokenize the input into individual words or subwords.
+   b. Apply the chosen informational value quantification methods, such as information theory-based metrics, semantic similarity measures, topic modeling techniques, or named entity recognition and keyword extraction.
+   c. Calculate the informational value score for the user input based on the selected methods.
 
-function calculate_informational_value_ratio(user_input, ai_response):
-    user_input_value = quantify_informational_value(user_input)
-    ai_response_value = quantify_
+2. Generate an AI response to the user input using the conversational AI system's language model and response generation techniques.
+
+3. Analyze the AI-generated response to determine its informational value using the same methods applied to the user input in step 1.
+
+4. Calculate the perplexity score for the AI-generated response using the trained language model:
+   a. Tokenize the AI response into individual words or subwords.
+   b. Use the language model to calculate the probability of each word or subword in the response.
+   c. Compute the perplexity score using the formula: PP(W) = 2^(-1/N * ∑ᵢ log₂ P(wᵢ|w₁, ..., wᵢ₋₁)), where PP(W) is the perplexity score, N is the total number of words in the response, and P(wᵢ|w₁, ..., wᵢ₋₁) is the probability of the i-th word given the previous words.
+
+5. Calculate the AIQ score using the following steps:
+   a. Compute the informational value ratio by dividing the AI response's informational value score by the user input's informational value score.
+   b. Calculate the inverse perplexity score by taking the reciprocal of the AI response's perplexity score.
+   c. Apply the predefined weights (α and β) to the informational value ratio and the inverse perplexity score, respectively.
+   d. Sum the weighted informational value ratio and the weighted inverse perplexity score to obtain the final AIQ score.
+
+6. Include the calculated AIQ score in the AI response output, following the format: "AIQ: [score]", where [score] is the AIQ value rounded to two decimal places.
+
+7. Deliver the AI response, along with the AIQ score, to the user.
+
+8. Store the user input, AI response, and corresponding AIQ score for future analysis and system optimization.
+
+9. Continuously monitor and analyze the AIQ scores to identify trends, patterns, and areas for improvement in the conversational AI system's performance.
+
+10. Regularly update and refine the AIQ implementation based on new research findings, user feedback, and ethical considerations in the field of conversational AI.
 ```
