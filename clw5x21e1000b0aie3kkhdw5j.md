@@ -23,15 +23,15 @@ The potential impact of AI 411 is immense. By democratizing access to informatio
 
 To make the AI 411 vision a reality, we need the support and engagement of a wide range of stakeholders, from AI researchers and blockchain developers to telecom providers and community organizations. Here are some specific ways you can get involved:
 
-1. Join the AI 411 community: Sign up for the Q8 newsletter on Hashnode, *and* *join our online forums (TBD)* to stay up-to-date on the latest developments and opportunities related to the project.
+1. Join the AI 411 community: Sign up for the Q8 newsletter on Hashnode, stay up-to-date on the latest developments and opportunities.
     
-2. Contribute your expertise: If you have skills or experience in areas such as AI, blockchain, SMS technology, or user experience design, we welcome your contributions and collaboration. Reach out to our team to learn more about how you can get involved.
+2. Contribute your expertise: If you have skills or experience in areas such as AI, blockchain, SMS technology, or user experience design, we welcome your contributions and collaboration.
     
-3. Partner with us: If you represent a telecom provider, government agency, or community organization that could benefit from the AI 411 service, we'd love to explore partnership opportunities. Contact our partnerships team to discuss how we can work together to bring AI 411 to your community.
+3. Partner with us: If you represent a telecom provider, government agency, or community organization that could benefit from the AI 411 service, we'd love to explore partnership opportunities.
     
-4. Spread the word: Help us raise awareness about the AI 411 project by sharing our mission and vision with your networks and communities. Follow and share our social media posts, blog articles, and other content to help us reach a wider audience.
+4. Spread the word: Help us raise awareness about the AI 411 project by sharing our mission and vision with your networks and communities. Follow and share our posts to help us reach a wider audience.
     
-5. Provide feedback and ideas: As we develop and refine the AI 411 platform, we value the input and perspectives of our community. Participate in our user research surveys, join our feedback sessions, and share your ideas and suggestions for how we can make the service more valuable and impactful.
+5. Provide feedback and ideas: As we develop and refine the AI 411 platform, we value the input and perspectives of our community.
     
 
 ## 1\. Introduction
