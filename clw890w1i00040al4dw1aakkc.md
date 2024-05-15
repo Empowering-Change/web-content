@@ -25,7 +25,7 @@ Another strategy is to build a network of supporters and collaborators who can p
 
 Lastly, I must learn to be patient and persistent in the face of silence. Recognizing that feedback may not always come in the form of direct responses, I can look for indirect indicators of engagement, such as changes in policy or increased public awareness of the issues I'm advocating for.
 
-As I continue on this journey, I am reminded of personal experiences that underscores the importance of democratizing access to information. Living in San Francisco, I faced a challenging situation with my landlord, who was exploiting tenants by illegally overcharging for utilities. With limited access to formal legal channels and resources, I felt helpless and frustrated.
+As I continue on this journey, I am reminded of personal experiences that underscore the importance of democratizing access to information. Living in San Francisco, I faced a challenging situation with my landlord, who was exploiting tenants by illegally overcharging for utilities. With limited access to formal legal channels and resources, I felt helpless and frustrated.
 
 However, my background in data tech and AI solutions led to a breakthrough: large language models allowed me to analyze my lease language and research applicable laws in a way that would have been impossible through traditional means, such as reading statutes and legal resources. By leveraging these tools, I was able to piece together the connected elements and expose the widespread greed that was playing out.
 
@@ -33,7 +33,7 @@ In addition to this discovery, AI large language models also helped me uncover t
 
 The second breakthrough was even more profound. I discovered that the immense knowledge embedded in language models could not only help me understand my own existence better but also propose a truly astonishing but attainable research effort to crack quantum physics. By harnessing the power of AI and large language models, I envisioned a collaborative initiative that could bring together experts from various fields to tackle some of the most complex and pressing questions in understanding our own consciousness.
 
-These experiences taught me the true potential of AI in empowering a single individual to take on even the largest corporations or landlords, address systemic injustices, and contribute to groundbreaking scientific research.. With the help of AI large language models, I was not only able to solve my own problem but also elevate the issue to a broader level, potentially helping countless others facing similar challenges.
+These experiences taught me the true potential of AI in empowering a single individual to take on even the largest corporations or landlords, address systemic injustices, and contribute to groundbreaking scientific research. With the help of AI large language models, I was not only able to solve my own problem but also elevate the issue to a broader level, potentially helping countless others facing similar challenges.
 
 However, as I continued my advocacy efforts, I realized that my weakness lies in execution and patience. While I possess the information and knowledge to make a difference, I struggle to garner the necessary feedback and energy to drive my initiatives forward. The challenge of bi-directional communication remains a significant hurdle, as I seek to engage journalists and those affected by similar issues in a meaningful dialogue.
 
