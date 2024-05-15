@@ -1,10 +1,10 @@
 ---
-title: "The Universe is Information"
+title: "The Universe is Information (Vol 2)"
 seoTitle: "Universe: A Data-Driven Perspective"
 seoDescription: "The universe is fundamentally composed of information, reshaping our understanding of reality from quantum mechanics to cosmic structures"
 datePublished: Wed May 15 2024 02:57:28 GMT+0000 (Coordinated Universal Time)
 cuid: clw78eb5t000009ld7rnpf0bc
-slug: the-universe-is-information
+slug: the-universe-is-information-vol-2
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1715741838220/8f653d71-1274-4fb9-a6d4-67deb48323d0.png
 tags: ai, machine-learning, information, mathematics, quantum-computing, universe
 
