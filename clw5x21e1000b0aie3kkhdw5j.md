@@ -19,7 +19,7 @@ To bring this vision to life, the AI 411 team will need to overcome a range of t
 
 The potential impact of AI 411 is immense. By democratizing access to information and empowering individuals with the knowledge and tools they need to make informed decisions, the service could help to drive significant improvements in areas such as health outcomes, education levels, financial inclusion, and social mobility. As the platform scales and expands, it could become a transformative force for positive change, fostering greater economic opportunity, social equity, and global collaboration.
 
-*Author’s note: If the power of AI can empower one person to* [*take on corporate greed, address systemic injustices*](https://q08.org/enjoy-the-silence)*, and* [*contribute to groundbreaking scientific research*](https://q08.org/developing-a-comprehensive-theoretical-framework-for-a-quantum-information-based-universe) *imagine all 8 billion of us flapping for the winds of change.*
+*<mark>Author’s note: If the power of AI can empower one person to </mark>* [*<mark>take on corporate greed, address systemic injustices</mark>*](https://q08.org/enjoy-the-silence)*<mark>, and </mark>* [*<mark>contribute to groundbreaking scientific research</mark>*](https://q08.org/developing-a-comprehensive-theoretical-framework-for-a-quantum-information-based-universe) *<mark> imagine all 8 billion of us flapping for the winds of change.</mark>*
 
 **Call to Action**
 
