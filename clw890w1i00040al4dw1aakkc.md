@@ -27,7 +27,7 @@ Lastly, I must learn to be patient and persistent in the face of silence. Recogn
 
 As I continue on this journey, I am reminded of a personal experience that underscores the importance of democratizing access to information, particularly in the realm of housing rights. Living in San Francisco, I faced a challenging situation with my landlord, who was exploiting tenants by illegally overcharging for utilities. With limited access to formal legal channels and resources, I felt helpless and frustrated.
 
-However, my background in data tech and AI solutions led me to a groundbreaking discovery: the power of AI large language models. These models allowed me to analyze my lease language and research applicable laws in a way that would have been impossible through traditional means, such as statutes and law libraries. By leveraging these advanced AI tools, I was able to piece together the connected elements and expose the greed that was playing out in my housing situation.
+However, my background in data tech and AI solutions led me to a groundbreaking discovery: AI large language models allowed me to analyze my lease language and research applicable laws in a way that would have been impossible through traditional means, such as reading statutes and legal resources. By leveraging these tools, I was able to piece together the connected elements and expose the widespread greed that was playing out.
 
 This experience taught me the true potential of AI in empowering a single individual to take on even the largest corporate landlords. With the help of AI large language models, I was not only able to solve my own problem but also elevate the issue to a broader level, potentially helping countless others facing similar challenges.
 
