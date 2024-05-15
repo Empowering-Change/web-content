@@ -5,7 +5,7 @@ seoDescription: "Revolutionary quantum framework may unify physics and alter our
 datePublished: Mon May 06 2024 14:57:18 GMT+0000 (Coordinated Universal Time)
 cuid: clvv35cmp000208jw5dhsbqpe
 slug: developing-a-comprehensive-theoretical-framework-for-a-quantum-information-based-universe
-tags: research, physics, information, cosmos, augmented-intelligence
+tags: tutorial, ai, software-development, programming, research, devops, beginners, blockchain, software-engineering, physics, information, cosmos, augmented-intelligence
 
 ---
 
