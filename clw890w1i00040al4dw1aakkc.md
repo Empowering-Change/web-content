@@ -13,7 +13,7 @@ As I sit at my computer, scrolling through the countless emails I've sent to var
 
 My journey began when I realized the immense potential of AI technology to democratize access to information and empower communities worldwide. I envisioned a world where anyone, regardless of their location, language, or socioeconomic status, could access the knowledge and services they need to thrive. This vision led me to develop [AI 411](HTTP://Q08.org/ai-411), an initiative that leverages the power of AI-driven platforms to deliver information and services through simple, accessible interfaces like SMS.
 
-To bring this vision to life, I reached out to nearly 200 individuals and organizations, including The Bill & Melinda Gates Foundation, Apple's executive team, politicians, and academics. I shared my ideas and sought their support in making AI 411 a reality. However, as the days turned into weeks, I found myself grappling with the silence that followed my emails.
+To bring this vision to life, I reached out to nearly 200 individuals and organizations, including The Bill & Melinda Gates Foundation, Apple's executive team, NGOs, and academics. I shared my ideas and sought their support in making AI 411 a reality. However, as the days turned into weeks, I found myself grappling with the silence that followed my emails.
 
 In the realm of bi-directional communication, feedback is crucial. It provides validation, guidance, and motivation to continue pushing for change. Yet, in our information-overloaded world, receiving feedback has become increasingly challenging. The silence that follows my emails can be disheartening, as it implicitly suggests that my ideas may not be worth pursuing.
 
