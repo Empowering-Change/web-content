@@ -1,5 +1,7 @@
 ---
 title: "Study provides support for informational universe"
+seoTitle: "Evidence Backs Informational Universe Theory"
+seoDescription: "Study supports the idea that the universe operates like a complex computational system through successful computer simulations of a warp drive"
 datePublished: Thu May 16 2024 01:53:47 GMT+0000 (Coordinated Universal Time)
 cuid: clw8lk92x000009jyclu9hniw
 slug: study-provides-support-for-informational-universe
