@@ -7,7 +7,7 @@ tags: ai, csharp, linux, programming, javascript, opensource, nodejs, machine-le
 
 ---
 
-Are used to think I was lazy, that I didn’t like to write or couldn’t pay attention long enough to code even though I got my professional start learning what was at the time out of date Fortran computer simulation network models of transportation.
+I used to think I was lazy, that I didn’t like to write or couldn’t pay attention long enough to code even though I got my professional start learning what was at the time out-of-date Fortran computer simulation network models of transportation.
 
 and then I realized I wasn’t thinking deep enough. Fast forward to today my brain still processes about the same amount of information, but it seems like I can focus incredible array of lasers in effective directions. And that’s a conversation for another day, suffice it to say my latest realization is we’ve got operating systems and software all wrong. We’ve been trained to see the technical limitations in how we interact with things meaning we believe that phones have to have screens and that we should even have to think about the Internet going down.
 
