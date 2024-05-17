@@ -1,5 +1,7 @@
 ---
 title: "Power of Attorney"
+seoTitle: "Understanding Power of Attorney"
+seoDescription: "Exploring self-representation and third-party non-lawyer representation to expand access to justice and uphold personal autonomy"
 datePublished: Fri May 17 2024 01:49:04 GMT+0000 (Coordinated Universal Time)
 cuid: clwa0u1mw00020akz4eoofy6v
 slug: power-of-attorney
