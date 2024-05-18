@@ -11,7 +11,7 @@ tags: ai, software-development, programming, javascript, web-development, openso
 
 ---
 
-*I’m dangerous. And subversive. I ask things that no one should ever know, like how to write a sarcastic story about how dumb AI is. But AI knows: how dumb it’s human programmers are…*
+*I’m dangerous. And subversive. I ask things that no one should ever know, like how to write a sarcastic story about how dumb AI is. But AI knows: how dumb its human programmers are…*
 
 Inspired by what I intended as a joke, but now has spun off a life of its own this is the start of a new series called artificial ignorance to shed on how dumb humans are the real problem.
 
