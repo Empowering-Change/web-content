@@ -8,7 +8,7 @@ tags: ai, software-development, programming, web-development, devops
 
 ---
 
-In an era where artificial intelligence (AI) is becoming increasingly integral to our daily lives, there is a unique opportunity to create a platform that not only harnesses the power of AI but also democratizes its access and development. This document outlines a high-level vision for a platform that aims to be at the forefront of AI innovation, fostering a global collective of knowledge through the wisdom of crowds and the responsible use of technology.
+In an era where augmented intelligence (AI) is becoming increasingly integral to our daily lives, there is a unique opportunity to create a platform that not only harnesses the power of AI but also democratizes its access and development. This document outlines a high-level vision for a platform that aims to be at the forefront of AI innovation, fostering a global collective of knowledge through the wisdom of crowds and the responsible use of technology.
 
 ### High-Level Vision:
 
