@@ -4,7 +4,7 @@ datePublished: Sat May 18 2024 21:49:26 GMT+0000 (Coordinated Universal Time)
 cuid: clwcn5kmr000509l13v2l1gfk
 slug: building-a-collective-intelligence-platform
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716068949959/20df97fd-5f7d-457e-8e8c-238f496549f1.png
-tags: ai, software-development, programming, web-development, devops
+tags: ai, artificial-intelligence, software-development, programming, web-development, devops, augmented-intelligence
 
 ---
 
