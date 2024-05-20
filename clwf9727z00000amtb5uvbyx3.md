@@ -1,5 +1,5 @@
 ---
-title: "1984: A Historical Context"
+title: "1984: Historical Context"
 datePublished: Mon May 20 2024 17:41:59 GMT+0000 (Coordinated Universal Time)
 cuid: clwf9727z00000amtb5uvbyx3
 slug: 1984-a-historical-context
