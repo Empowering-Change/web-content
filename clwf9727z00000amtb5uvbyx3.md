@@ -7,7 +7,7 @@ tags: programming, web-development, opensource, general-advice
 
 ---
 
-the meanings and intentions behind the terms we employ. In the context of George Orwell's *1984*, the novel serves as a stark warning about the dangers of totalitarianism and the manipulation of information. Orwell's dystopian vision was influenced by historical events and trends of his time, including the rise of fascism and Stalinism, the manipulation of truth during wartime, and the suppression of dissent and free thought.
+In George Orwell's *1984*, the novel serves as a stark warning about the dangers of totalitarianism and the manipulation of information. Orwell's dystopian vision was influenced by historical events and trends of his time, including the rise of fascism and Stalinism, the manipulation of truth during wartime, and the suppression of dissent and free thought.
 
 Orwell's work, written in 1948, was a response to the totalitarian regimes of the 20th century, particularly Nazi Germany. Indeed, the themes and concepts present in Orwell's *1984* continue to be relevant in contemporary society. The novel's exploration of government control of information, manipulation of language, and the erosion of individual autonomy offers a stark warning that still resonates today.
 
