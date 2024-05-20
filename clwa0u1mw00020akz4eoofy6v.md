@@ -210,7 +210,7 @@ Ultimately, the recognition and implementation of third-party non-lawyer represe
 
 As we continue to grapple with the challenges and opportunities of an increasingly complex and rapidly changing world, the principles and values underlying non-lawyer representation will serve as important guideposts and foundations for building a more just, equitable and inclusive society. By embracing a more expansive and innovative approach to legal representation, and by working collaboratively to realize the full potential of non-lawyer representation, we can help to create a legal system that truly lives up to the ideals of justice, equality, and the rule of law.
 
-VII. Addressing Counterarguments and Concerns
+## VII. Addressing Counterarguments and Concerns
 
 As with any significant reform or innovation in the legal system, the recognition and implementation of third-party non-lawyer representation is likely to face a range of counterarguments and concerns from various stakeholders and interest groups. These concerns are understandable and deserve serious consideration, but they should not be allowed to derail or delay the important work of expanding access to justice and promoting greater equity and inclusivity in the legal system.
 
@@ -256,7 +256,7 @@ But by approaching the work of legal system reform with a commitment to these co
 
 Ultimately, the recognition and implementation of third-party non-lawyer representation is not just a matter of legal or policy reform, but a moral and ethical imperative. It is about fulfilling the highest aspirations of our legal system and our society as a whole, and about creating a more just and equitable world for all. By embracing this challenge with courage, compassion, and a commitment to the enduring values of justice, equality, and the rule of law, we can help to build a brighter and more hopeful future for generations to come.
 
-VIII. Conclusion
+## VIII. Conclusion
 
 In conclusion, the case for recognizing and implementing third-party non-lawyer representation is compelling and urgent. As we have seen throughout this discussion, the current system of legal representation in the United States is facing a range of challenges and limitations that are undermining access to justice, public trust and confidence in the legal system, and the fundamental values of equality and the rule of law.
 
