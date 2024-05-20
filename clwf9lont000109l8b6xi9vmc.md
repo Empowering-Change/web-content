@@ -1,10 +1,10 @@
 ---
-title: "A New World Order"
+title: "New Order"
 seoTitle: "Global Shift: New World Order"
 seoDescription: "Exploring new structures to promote truth, ethical communication, and diverse perspectives in the evolving information landscape"
 datePublished: Mon May 20 2024 17:53:21 GMT+0000 (Coordinated Universal Time)
 cuid: clwf9lont000109l8b6xi9vmc
-slug: a-new-world-order
+slug: new-order
 tags: programming, web-development
 
 ---
