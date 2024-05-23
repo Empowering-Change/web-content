@@ -9,7 +9,7 @@ tags: ai
 
 ---
 
-As Artificial Intelligence (AI) systems become increasingly integrated into our daily lives, questions about human responsibility and agency in the context of AI have become more pressing. This article examines the role of humans in shaping the development and deployment of AI technology and emphasizes the need for robust human oversight mechanisms to ensure the responsible use of AI.
+As AI systems become increasingly integrated into our daily lives, questions about human responsibility and agency in the context of AI have become more pressing. This article examines the role of humans in shaping the development and deployment of AI technology and emphasizes the need for robust human oversight mechanisms to ensure the responsible use of AI.
 
 #### Introduction
 
