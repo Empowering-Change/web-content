@@ -1,5 +1,7 @@
 ---
 title: "Human Responsibility in the Age of AI"
+seoTitle: "AI Era: Human Responsibility"
+seoDescription: "Exploring human responsibility and oversight in AI development to ensure ethical and beneficial use of AI technology"
 datePublished: Thu May 23 2024 00:07:25 GMT+0000 (Coordinated Universal Time)
 cuid: clwihufiq00000ajseijw3zbg
 slug: human-responsibility-in-the-age-of-ai
