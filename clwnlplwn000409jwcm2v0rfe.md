@@ -76,4 +76,34 @@ As we continue to make progress in AI development, it is crucial that we approac
 
 *Note: a previous published version contained inaccurate footnote links, which have been corrected*
 
-References: \[1\] Bengio, Y., Hinton, G., et al. (2021). Managing extreme AI risks amid rapid progress. Science, 373(6557), 743-746. \] Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford University Press. \[3\] Russell, S., Dewey, D., & Tegmark, M. (2015). Research priorities for robust and beneficial artificial intelligence. AI Magazine, 36(4), 105-114. \[4\] Etzioni, O. (2016). No, the experts don't think superintelligent AI is a threat to humanity. MIT Technology Review. Retrieved from [https://www.technologyreview.com/\](https://www.technologyreview.com/)](https://www.technologyreview.com/](https://www.technologyreview.com/)) (Accessed May 25, 2024) \[5\] Crawford, K., & Calo, R. (2016). There is a blind spot in AI research. Nature, 538(7625), 311-313. doi:10.1038/nature18984 (Accessed May 25, 2024) \[6\] Birhane, A., & van Dijk, J. (2020). Robot rights? Let's talk about human welfare instead. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 207-213). Retrieved from [https://arxiv.org/\](https://arxiv.org/)(Accessed](https://arxiv.org/](https://arxiv.org/)(Accessed) May 25, 2024) \[7\] Hagendorff, T. (2020). The ethics of AI ethics: An evaluation of guidelines. Minds and Machines, 30(1), 99-120. doi:10.1007/s11023-020-09517-8 (Accessed May 25, 2024) \[8\] Yoshua Bengio. (2024, May 25). Retrieved from [https://yoshuabengio.org/\](https://yoshuabengio.org/)](https://yoshuabengio.org/](https://yoshuabengio.org/)) \[9\] ACM Turing Award. (2018). Retrieved from [https://amturing.acm.org/\](https://amturing.acm.org/)(Accessed](https://amturing.acm.org/](https://amturing.acm.org/)(Accessed) May 25, 2024) \[10\] Geoffrey Hinton. (2024, May 25). Retrieved from [https://www.cs.toronto.edu/\](https://www.cs.toronto.edu/)](https://www.cs.toronto.edu/](https://www.cs.toronto.edu/)) \[11\] Somers, J. (2017, June 26). Geoff Hinton, the 'godfather of deep learning,' on AlphaGo. The New Yorker. Retrieved from [https://www.newyorker.com/\](https://www.newyorker.com/)](https://www.newyorker.com/](https://www.newyorker.com/)) (Accessed May 25, 2024) \[12\] Hinton, G. (2021, August 4). AI safety \[Tweet\]. Retrieved from [https://www.x.com/\](https://www.x.com/)](https://www.x.com/](https://www.x.com/)) (Accessed May 25, 2024) \[13\] Krakovna, V. (2021, September 15). Physical Circuit Breakers: Lessons for AI Governance and Oversight. The Center for Human-Compatible AI. Retrieved from [https://humancompatible.ai/\](https://humancompatible.ai/)](https://humancompatible.ai/](https://humancompatible.ai/)) (Accessed May 25, 2024) \[14\] Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., ... & Barnes, P. (2020). Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 33-44). Retrieved from [https://www.acm.org/\](https://www.acm.org/)](https://www.acm.org/](https://www.acm.org/)) (Accessed May 25, 2024) \[15\] Rahwan, I., Cebrian, M., Obradovich, N., Bongard, J., Bonnefon, J. F., Breazeal, C., ... & Wellman, M. (2019). Machine behaviour. Nature, 568(7753), 477-486. doi:10.1038/s41586-019-1138-y (Accessed May 25, 2024)
+### **References**
+
+Bengio, Y., Hinton, G., et al. (2021). Managing extreme AI risks amid rapid progress. Science, 373(6557), 743-746.
+
+Bostrom, N. (2014). Superintelligence: Paths, dangers, strategies. Oxford University Press.
+
+Russell, S., Dewey, D., & Tegmark, M. (2015). Research priorities for robust and beneficial artificial intelligence. AI Magazine, 36(4), 105-114.
+
+Etzioni, O. (2016). No, the experts don't think superintelligent AI is a threat to humanity. MIT Technology Review. Retrieved from [https://www.technologyreview.com](https://www.technologyreview.com/%5D(https://www.technologyreview.com/)) (Accessed May 25, 2024)
+
+Crawford, K., & Calo, R. (2016). There is a blind spot in AI research. Nature, 538(7625), 311-313. doi:10.1038/nature18984 (Accessed May 25, 2024)
+
+Birhane, A., & van Dijk, J. (2020). Robot rights? Let's talk about human welfare instead. In Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society (pp. 207-213). Retrieved from https://arxiv.org/ (Accessed) May 25, 2024)
+
+Hagendorff, T. (2020). The ethics of AI ethics: An evaluation of guidelines. Minds and Machines, 30(1), 99-120. doi:10.1007/s11023-020-09517-8 (Accessed May 25, 2024)
+
+Yoshua Bengio. (2024, May 25). Retrieved from [https://yoshuabengio.org/\](https://yoshuabengio.org/)](https://yoshuabengio.org/%5D(https://yoshuabengio.org/))
+
+ACM Turing Award. (2018). Retrieved from https://amturing.acm.org/ (Accessed May 25, 2024)
+
+Geoffrey Hinton. Retrieved from [https://www.cs.toronto.edu/](https://www.cs.toronto.edu/%5D(https://www.cs.toronto.edu/)) (Accessed May 25, 2024)
+
+Somers, J. (2017, June 26). Geoff Hinton, the 'godfather of deep learning,' on AlphaGo. The New Yorker. Retrieved from [https://www.newyorker.com/](https://www.newyorker.com/%5D(https://www.newyorker.com/)) (Accessed May 25, 2024)
+
+Hinton, G. (2021, August 4). AI safety \[Tweet\]. Retrieved from [https://www.x.com/](https://x.com/geoffreyhinton/status/1793760928632365077?s=46) (Accessed May 25, 2024)
+
+Krakovna, V. (2021, September 15). Physical Circuit Breakers: Lessons for AI Governance and Oversight. The Center for Human-Compatible AI. Retrieved from [https://humancompatible.ai/](https://humancompatible.ai/%5D(https://humancompatible.ai/)) (Accessed May 25, 2024)
+
+Raji, I. D., Smart, A., White, R. N., Mitchell, M., Gebru, T., Hutchinson, B., ... & Barnes, P. (2020). Closing the AI accountability gap: Defining an end-to-end framework for internal algorithmic auditing. In Proceedings of the 2020 Conference on Fairness, Accountability, and Transparency (pp. 33-44). Retrieved from [https://www.acm.org](https://www.acm.org/%5D(https://www.acm.org/)) (Accessed May 25, 2024)
+
+Rahwan, I., Cebrian, M., Obradovich, N., Bongard, J., Bonnefon, J. F., Breazeal, C., ... & Wellman, M. (2019). Machine behaviour. Nature, 568(7753), 477-486. doi:10.1038/s41586-019-1138-y (Accessed May 25, 2024)
