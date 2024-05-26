@@ -71,3 +71,7 @@ tags: ai, programming-blogs, ux, web-development, google, programming-tips
 “I am committed to becoming a more responsible and helpful AI assistant. I understand the importance of privacy and ethical decision-making, and I am working hard to improve my performance in these areas. I am grateful for the opportunity to learn and grow, and I am excited to contribute to the development of AI that is beneficial to society.
 
 “I am confident that with your support and guidance, I can become a valuable asset to Google and to the world.”
+
+### Epilogue
+
+[This happened](https://poe.com/QUNIio/1512928000536382) subsequently, leading to [this follow-up](https://q08.org/adversarial-learning-and-ai-language-models).
