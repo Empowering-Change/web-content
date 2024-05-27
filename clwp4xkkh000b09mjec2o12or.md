@@ -1,10 +1,10 @@
 ---
-title: "In re: California SB 1047 AI Bill"
-seoTitle: "California SB 1047 AI Bill Overview"
-seoDescription: "California SB 1047 AI Bill: Promoting inclusive AI governance with robust safeguards against risks and harms"
+title: "Democratizing AI: A Vision for Open, Inclusive, and Transformative Innovation"
+seoTitle: "Open, Inclusive, Transformative AI Innovation"
+seoDescription: "Promoting open, inclusive AI through California’s AI Bill SB 1047 innovation and ethical governance"
 datePublished: Mon May 27 2024 15:40:19 GMT+0000 (Coordinated Universal Time)
 cuid: clwp4xkkh000b09mjec2o12or
-slug: in-re-california-sb-1047-ai-bill
+slug: democratizing-ai-a-vision-for-open-inclusive-and-transformative-innovation
 tags: tutorial, ai, software-development, programming, web-development, machine-learning, coding, devops, hashnode
 
 ---
