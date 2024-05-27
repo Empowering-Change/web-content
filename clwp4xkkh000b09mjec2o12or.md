@@ -1,6 +1,6 @@
 ---
 title: "Democratizing AI: A Vision for Open, Inclusive, and Transformative Innovation"
-seoTitle: "Open, Inclusive, Transformative AI Innovation"
+seoTitle: "CA AI Bill: Open, Inclusive, Transformative Innovation"
 seoDescription: "Promoting open, inclusive AI through California’s AI Bill SB 1047 innovation and ethical governance"
 datePublished: Mon May 27 2024 15:40:19 GMT+0000 (Coordinated Universal Time)
 cuid: clwp4xkkh000b09mjec2o12or
