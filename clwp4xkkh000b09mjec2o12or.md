@@ -225,6 +225,134 @@ The road ahead will not be easy, but with a commitment to collaboration, transpa
 
 # Appendices
 
+## Proposed Amendments to SB 1047
+
+1. **Section 22603.5 - Human-AI Air Gap** a. Add a new section explicitly affirming the principle of the human-AI air gap as the essential kill switch.
+    
+    * Alternative: Include this principle in the legislative findings and declarations section of the bill. b. Prohibit provisions that erode the separation between AI-generated outputs and human-executed actions or grant AI systems direct control over high-risk decisions or physical systems.
+        
+    * Variation: Specify a list of high-risk domains (e.g., criminal justice, healthcare, finance) where the human-AI air gap must be maintained.
+        
+    * Alternative: Require a mandatory human review and approval process for AI-generated outputs in high-risk domains.
+        
+2. **Section 22602 - Definitions** a. Include definitions of "open-source AI" and "democratized AI innovation" that emphasize transparency, accessibility, and inclusive practices.
+    
+    * Variation: Provide more detailed criteria for what constitutes open-source AI (e.g., permissive licensing, public documentation, open data).
+        
+    * Alternative: Include a definition of "closed-source AI" and specify restrictions or requirements for such systems.
+        
+3. **Section 22603 - Safe Harbor for Open-Source AI** a. Create a safe harbor for open-source AI development, exempting projects from certain compliance requirements if they adhere to responsible development practices.
+    
+    * Variation: Specify a list of responsible development practices (e.g., transparency, accountability, privacy protection) that qualify for the safe harbor.
+        
+    * Alternative: Establish a tiered safe harbor with different levels of exemption based on the degree of openness and responsible practices.
+        
+4. **Section 22603(g) - Mandatory Disclosure of AI Models and Data** a. Require covered AI developers to make their models, training data, and safety documentation openly available for public scrutiny and collaboration, with narrow exceptions for trade secrets or privacy concerns.
+    
+    * Variation: Specify a process for developers to request exceptions and for the Frontier Model Division to review and approve them.
+        
+    * Alternative: Require disclosure only to a designated regulatory body or independent auditor, rather than to the general public.
+        
+5. **Section 22604 - Equitable Access to AI Computing Resources** a. Require operators of AI computing clusters to reserve a portion of their resources for open-source, academic, and non-profit AI projects at subsidized or no cost.
+    
+    * Variation: Specify a minimum percentage (e.g., 10%, 20%, 30%) of computing resources that must be reserved for such projects.
+        
+    * Alternative: Establish a public-private partnership to create a dedicated computing cluster for open-source and non-profit AI projects.
+        
+6. **Section 22605 - Open APIs and Interoperability Standards** a. Mandate that AI developers and computing cluster operators provide open APIs, interoperability standards, and other technical interfaces to facilitate third-party innovation, auditing, and collaboration.
+    
+    * Variation: Specify a set of minimum standards or protocols that must be supported (e.g., REST APIs, containerization, federated learning).
+        
+    * Alternative: Require AI developers to participate in industry-wide efforts to develop and adopt open standards and interfaces.
+        
+7. **Section 22610 - Public AI Innovation Fund** a. Establish a Public AI Innovation Fund to provide grants, scholarships, and other financial support for open-source AI projects, academic research, and community-driven initiatives, with a focus on underrepresented groups and diverse perspectives.
+    
+    * Variation: Specify a minimum annual budget allocation for the fund (e.g., $10 million, $50 million, $100 million).
+        
+    * Alternative: Create tax incentives or other financial benefits for private sector entities that contribute to the fund or support open-source AI projects.
+        
+8. **Section 11547.6 - Frontier Model Division Responsibilities** a. Require the Frontier Model Division to prioritize the promotion of open, democratized AI innovation in all its activities, including guidance, best practices, and advisory committee memberships.
+    
+    * Variation: Specify a set of metrics or indicators that the division must use to measure and report on its progress in promoting open AI innovation.
+        
+    * Alternative: Establish a separate office or unit within the division focused specifically on open-source AI and democratized innovation.
+        
+9. **Section 11547.6(c)(7) - Open-Source AI Advisory Committee** a. Give the open-source AI advisory committee a leading role in shaping the division's policies and recommendations, with a mandate to advocate for the interests of independent developers, researchers, and the broader public.
+    
+    * Variation: Specify a minimum number or percentage of committee members who must represent open-source AI communities or public interest groups.
+        
+    * Alternative: Require the committee to hold regular public hearings and solicit input from a broad range of stakeholders.
+        
+10. **Section 11547.7 - CalCompute Initiative** a. Require the CalCompute initiative to dedicate a significant portion of its resources and expertise to supporting open-source, academic, and community-driven AI projects, with a focus on enabling broad participation and diverse perspectives.
+    
+    * Variation: Specify a minimum percentage (e.g., 25%, 50%, 75%) of CalCompute resources that must be allocated to open-source and non-profit AI projects.
+        
+    * Alternative: Establish a separate grant program within CalCompute specifically for open-source AI projects and research.
+        
+11. **Section 22611 - State Agencies and Open-Source AI** a. Encourage all state agencies and public entities engaging with AI to prioritize open-source solutions, public-private partnerships, and collaborative innovation models over proprietary or closed systems, to the extent practicable.
+    
+    * Variation: Require state agencies to provide written justification for using closed-source AI systems and to obtain approval from the Frontier Model Division.
+        
+    * Alternative: Establish a preference or bonus points in state procurement processes for AI vendors that use open-source software or contribute to open-source projects.
+        
+12. **Section 22612 - Severability Clause** a. Include a severability clause stating that if any provision of the bill is held invalid, the remainder of the bill shall remain in effect to the fullest extent possible.
+    
+    * Alternative: Include a more specific severability clause tailored to the open-source AI and democratized innovation provisions of the bill.
+        
+
+*Additional proposed amendments and variations to consider for SB 1047:*
+
+13. **Section 22613 - AI Transparency Reporting** a. Require covered AI developers to publish annual transparency reports detailing their AI systems' performance, safety record, and any incidents or unintended consequences.
+    
+    * Variation: Specify a standardized format or template for transparency reports to ensure consistency and comparability across companies.
+        
+    * Alternative: Require transparency reports to be audited or certified by an independent third party before publication.
+        
+14. **Section 22614 - AI Ethics Training and Education** a. Mandate that all employees and contractors of covered AI developers who work on AI systems undergo regular training and education on AI ethics, safety, and responsible development practices.
+    
+    * Variation: Specify a minimum number of hours or frequency of training (e.g., 4 hours per year, every 6 months).
+        
+    * Alternative: Require AI developers to collaborate with academic institutions or non-profit organizations to develop and deliver AI ethics training programs.
+        
+15. **Section 22615 - Public Participation in AI Governance** a. Establish mechanisms for public participation and input in the development and implementation of AI governance policies, such as public hearings, online consultations, and citizen advisory boards.
+    
+    * Variation: Require the Frontier Model Division to respond in writing to all public comments and explain how they were considered in the final policy decisions.
+        
+    * Alternative: Create a dedicated online platform for public engagement and collaboration on AI governance issues, with tools for discussion, feedback, and idea generation.
+        
+16. **Section 22616 - AI Liability and Accountability** a. Clarify the legal liability and accountability framework for AI-related harms or accidents, including provisions for compensation, remediation, and penalties for negligence or willful misconduct.
+    
+    * Variation: Establish a strict liability standard for AI developers in cases of serious harm or injury caused by their systems.
+        
+    * Alternative: Create a mandatory insurance or compensation fund for AI-related harms, funded by contributions from AI developers and operators.
+        
+17. **Section 22617 - AI Environmental Impact Assessment** a. Require covered AI developers to conduct and publish environmental impact assessments of their AI systems, including energy consumption, carbon footprint, and potential effects on climate change.
+    
+    * Variation: Specify a standardized methodology or criteria for conducting environmental impact assessments of AI systems.
+        
+    * Alternative: Offer tax incentives or other benefits for AI developers that demonstrate significant reductions in their environmental impact or use renewable energy sources.
+        
+18. **Section 22618 - AI Workforce Transition and Support** a. Establish programs and funding to support workers who may be displaced or negatively affected by the adoption of AI systems, such as job training, career counseling, and income support.
+    
+    * Variation: Require AI developers to contribute a portion of their revenue or profits to a workforce transition fund.
+        
+    * Alternative: Offer tax credits or other incentives for companies that invest in retraining and upskilling their workers to work alongside AI systems.
+        
+19. **Section 22619 - AI Research and Development Tax Credit** a. Establish a tax credit for qualified research and development expenses related to open-source, responsible, and inclusive AI development.
+    
+    * Variation: Specify a percentage or maximum amount of the tax credit (e.g., 20% of qualified expenses, up to $1 million per year).
+        
+    * Alternative: Make the tax credit refundable or transferable to benefit smaller startups and non-profit organizations.
+        
+20. **Section 22620 - AI Procurement Preferences** a. Establish procurement preferences or set-asides for state agencies and public entities to purchase or use AI systems that are open-source, transparent, and aligned with responsible development principles.
+    
+    * Variation: Specify a minimum percentage of AI procurement budgets that must be allocated to open-source or responsible AI systems.
+        
+    * Alternative: Require state agencies to justify in writing any decisions to purchase or use closed-source or proprietary AI systems, with approval from the Frontier Model Division.
+        
+
+These additional proposed amendments and variations aim to further strengthen SB 1047's provisions for transparency, accountability, public participation, and responsible AI development. By offering a range of options and alternatives, this appendix aims to provide legislators with a flexible and adaptable framework for refining and implementing the bill's vision of open, inclusive, and democratized AI innovation.
+
 ## References
 
 Acemoglu, D. (2021). Harms of AI. National Bureau of Economic Research.
