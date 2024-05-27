@@ -5,6 +5,7 @@ seoDescription: "Promoting open, inclusive AI through California’s AI Bill SB 
 datePublished: Mon May 27 2024 15:40:19 GMT+0000 (Coordinated Universal Time)
 cuid: clwp4xkkh000b09mjec2o12or
 slug: ai-vision
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1716826015647/8b1082e6-4ac6-4194-8c93-6ac7b2867165.png
 tags: tutorial, ai, software-development, programming, web-development, machine-learning, coding, devops, hashnode
 
 ---
