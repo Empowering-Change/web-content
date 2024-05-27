@@ -10,6 +10,42 @@ tags: tutorial, ai, software-development, programming, web-development, machine-
 
 ---
 
+**Overarching Principles:**
+
+1. The inherent air gap between AI-generated outputs and human-executed actions must be recognized as the fundamental kill switch and preserved to ensure human control over AI systems.
+    
+2. AI development and governance must prioritize open access to knowledge, tools, and resources to democratize innovation and prevent the entrenchment of narrow private interests.
+    
+3. AI regulation should foster diversity, inclusivity, and broad participation in the development and oversight of AI systems to promote equitable benefits and mitigate risks.
+    
+
+**Proposed Modifications:**
+
+1. Add a new section (e.g., 22603.5) explicitly affirming the principle of the human-AI air gap as the essential kill switch. Suggested language: "No provision of this chapter shall be construed to erode the separation between AI-generated outputs and human-executed actions, or to grant AI systems direct control over high-risk decisions or physical systems."
+    
+2. Amend Section 22602 to include definitions of "open-source AI" and "democratized AI innovation." Suggested language: "'Open-source AI' refers to AI systems whose source code, training data, and model architectures are made freely available for public scrutiny, collaboration, and reuse. 'Democratized AI innovation' refers to the development of AI systems through transparent, accessible, and inclusive practices that enable broad participation and benefit-sharing."
+    
+3. Modify Section 22603 to create a safe harbor for open-source AI development. Suggested language: "Notwithstanding any other provision of this chapter, open-source AI projects that adhere to responsible and transparent development practices, as determined by the Frontier Model Division, shall be exempt from the requirements of Sections 22603(a)-(e)."
+    
+4. Add a new subsection (e.g., 22603(g)) requiring covered AI developers to make their models, training data, and safety documentation openly available, with narrow exceptions. Suggested language: "Covered developers shall make their AI models, training data, and safety documentation openly available for public scrutiny and collaboration, subject only to narrowly tailored exceptions for legitimate trade secrets or individual privacy concerns, as determined by the Frontier Model Division."
+    
+5. Amend Section 22604 to require operators of AI computing clusters to reserve a portion of their resources for open-source, academic, and non-profit AI projects. Suggested language: "Operators of AI computing clusters shall reserve at least \[X%\] of their computing resources for open-source, academic, and non-profit AI projects at subsidized or no cost. The Frontier Model Division shall determine the appropriate percentage and establish criteria for eligibility."
+    
+6. Modify Section 22605 to mandate open APIs and interoperability standards. Suggested language: "AI developers and computing cluster operators shall provide open APIs, interoperability standards, and other technical interfaces, as determined by the Frontier Model Division, to facilitate third-party innovation, auditing, and collaboration around their AI systems."
+    
+7. Add a new section (e.g., 22610) establishing a "Public AI Innovation Fund." Suggested language: "The Public AI Innovation Fund is hereby established to provide grants, scholarships, and other financial support for open-source AI projects, academic research, and community-driven AI initiatives, with a focus on underrepresented groups and diverse perspectives. The Fund shall be administered by the Frontier Model Division."
+    
+8. Amend Section 11547.6 to require the Frontier Model Division to prioritize open, democratized AI innovation. Suggested language: "The Frontier Model Division shall prioritize the promotion of open, democratized AI innovation in all its activities, including its guidance, best practices, and advisory committee memberships."
+    
+9. Modify Section 11547.6(c)(7) to empower the open-source AI advisory committee. Suggested language: "The open-source AI advisory committee shall play a leading role in shaping the Division's policies and recommendations, with a mandate to advocate for the interests of independent developers, researchers, and the broader public."
+    
+10. Add a new subsection (e.g., 11547.7(d)) requiring the CalCompute initiative to support open-source, academic, and community-driven AI projects. Suggested language: "The CalCompute initiative shall dedicate a significant portion of its resources and expertise, as determined by the Frontier Model Division, to supporting open-source, academic, and community-driven AI projects, with a focus on enabling broad participation and diverse perspectives."
+    
+11. Include a new section (e.g., 22611) encouraging state agencies to prioritize open-source AI solutions and collaborative innovation models. Suggested language: "All state agencies and public entities engaging with AI are encouraged to prioritize open-source solutions, public-private partnerships, and collaborative innovation models over proprietary or closed systems, to the extent practicable."
+    
+12. Add a severability clause as Section 22612. Suggested language: "If any provision of this chapter or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+    
+
 ## 1\. Introduction
 
 The rapid advancement of artificial intelligence (AI) technologies presents both unprecedented opportunities and complex challenges for our society. AI has the potential to drive transformative innovation across a wide range of domains, from healthcare and education to transportation and environmental sustainability (Bughin et al., 2018; Chui et al., 2018). However, the development and deployment of AI systems also raise significant ethical, social, and governance challenges, including issues of fairness, transparency, accountability, and safety (IEEE, 2019; OECD, 2019).
@@ -187,6 +223,8 @@ If we can rise to this challenge, however, the potential benefits are immense. B
 
 The road ahead will not be easy, but with a commitment to collaboration, transparency, and the inherent dignity and worth of every human being, we can work towards an AI future that is not only innovative and transformative but also just, equitable, and grounded in the public good. Let us seize this opportunity, and work together to build a brighter, more inclusive, and more hopeful future for all.
 
+# Appendices
+
 ## References
 
 Acemoglu, D. (2021). Harms of AI. National Bureau of Economic Research.
@@ -277,7 +315,9 @@ Whittlestone, J., Nyrup, R., Alexandrova, A., & Cave, S. (2019). The role and li
 
 Young, M., Magassa, L., & Friedman, B. (2019). Toward inclusive tech policy design: A method for underrepresented voices to strengthen tech policy documents. Ethics and Information Technology, 21(2), 89-103.
 
-Zuboff, S. (2019). The age of surveillance capitalism: The fight for a human future at the new frontier of power. Profile books.About Q8 Empowering Change
+Zuboff, S. (2019). The age of surveillance capitalism: The fight for a human future at the new frontier of power. Profile books.
+
+## About Q8 Empowering Change
 
 Q8 Empowering Change is a 501(c)3 nonprofit social good AI research organization dedicated to empowering change with information for the benefit of all humanity. The organization's mission is rooted in a deep belief in the transformative power of open and decentralized access to information, and in the potential of AI and other emerging technologies to create a more equitable, inclusive, and sustainable future for all.
 
